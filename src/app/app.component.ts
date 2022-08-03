@@ -1,5 +1,4 @@
 import { Component } from '@angular/core';
-import {timeout} from "rxjs";
 import {Book} from "./models/book";
 
 @Component({
